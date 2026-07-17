@@ -30,13 +30,21 @@ functional with no backend** — CRUD changes and uploads persist across reloads
 
 ---
 
+## Live Demo
+
+**🔗 https://cloud-campus-portal.vercel.app** — deployed on Vercel
+(log in with `admin@campus.edu` / `demo1234`).
+
 ## Screenshots
 
-> Add screenshots here after running the app locally.
+### Dashboard
+![Dashboard](docs/dashboard.png)
 
-| Dashboard | AWS Infrastructure | Resources (S3) |
-|-----------|--------------------|----------------|
-| `docs/dashboard.png` | `docs/infrastructure.png` | `docs/resources.png` |
+### AWS Infrastructure
+![AWS Infrastructure](docs/infrastructure.png)
+
+### Resources (simulated Amazon S3)
+![Resources](docs/resources.png)
 
 ---
 
